@@ -29,7 +29,7 @@ _Add screenshots here once available. Example:_
 
 | Homepage                          | Coin Detail Page                      |
 |----------------------------------|----------------------------------------|
-| ![Home](readme assets/coin page1.png)    | ![Details](readme assets/coin page2.png)   |
+| ![Home](readme-assets/coin-page1.png)    | ![Details](readme-assets/coin-page2.png)   |
 
 ---
 
