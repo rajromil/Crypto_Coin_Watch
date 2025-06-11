@@ -18,7 +18,7 @@
 
 ## 🔗 Live Demo
 
-🌐 **Check it out here**: [https://your-deployed-site-link.com](https://your-deployed-site-link.com)  
+🌐 **Check it out here**: [https://your-deployed-site-link.com](https://crypto-coinwatch.netlify.app/)  
 
 
 ---
