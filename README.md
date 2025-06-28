@@ -25,8 +25,6 @@
 
 ## 📸 Screenshots
 
-_Add screenshots here once available. Example:_
-
 | Homepage                          | Coin Detail Page                      |
 |----------------------------------|----------------------------------------|
 | ![Home](readme-assets/coin-page1.png)    | ![Details](readme-assets/coin-page2.png)   |
@@ -38,8 +36,7 @@ _Add screenshots here once available. Example:_
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/crypto_coin_watch.git
-   cd crypto_coin_watch
+   git clone https://github.com/rajromil/Crypto_Coin_Watch.git
    ```
 
 2. **Install dependencies**:
