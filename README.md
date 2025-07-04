@@ -18,14 +18,12 @@
 
 ## 🔗 Live Demo
 
-🌐 **Check it out here**: [https://your-deployed-site-link.com](https://your-deployed-site-link.com)  
+🌐 **Check it out here**: [Deployed website link](https://crypto-coinwatch.netlify.app/)  
 
 
 ---
 
 ## 📸 Screenshots
-
-_Add screenshots here once available. Example:_
 
 | Homepage                          | Coin Detail Page                      |
 |----------------------------------|----------------------------------------|
@@ -38,8 +36,7 @@ _Add screenshots here once available. Example:_
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/crypto_coin_watch.git
-   cd crypto_coin_watch
+   git clone https://github.com/rajromil/Crypto_Coin_Watch.git
    ```
 
 2. **Install dependencies**:
