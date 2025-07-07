@@ -9,7 +9,7 @@
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-5.13.0-0081CB?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-4.4.9-FF6384?style=flat&logo=chart.js&logoColor=white)](https://chartjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
+
 
 [🌐 Live Demo](https://crypto-coinwatch.netlify.app/) • [📖 Features](#-features) • [🚀 Installation](#-installation)
 
@@ -173,17 +173,11 @@ GET /coins/{id}/market_chart?vs_currency=usd&days=7
 
 [![Github_Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajromil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajromilk23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romilraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romil-raj-80983728a/)
 
 *"Building modern web applications with cutting-edge technologies and beautiful user experiences."*
 
 </div>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
