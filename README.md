@@ -164,12 +164,7 @@ GET /coins/{id}/market_chart?vs_currency=usd&days=7
 ## 👨‍💻 Author
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love">
-
-**Romil Raj**
-
-*Full Stack Developer*
+Romil Raj
 
 [![Github_Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajromil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajromilk23@gmail.com)
@@ -183,7 +178,7 @@ GET /coins/{id}/market_chart?vs_currency=usd&days=7
 
 <div align="center">
 
-**Made with ❤️ by [Romil Raj](https://github.com/rajromil)**
+**(https://github.com/rajromil)**
 
 *CoinWatch - Track. Analyze. Profit.*
 
