@@ -1,4 +1,4 @@
-# � CoinWatch - Advanced Cryptocurrency Analytics Platform
+# 🪙 CoinWatch - Cryptocurrency Analytics Platform
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-5.13.0-0081CB?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-4.4.9-FF6384?style=flat&logo=chart.js&logoColor=white)](https://chartjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
+
 
 [🌐 Live Demo](https://crypto-coinwatch.netlify.app/) • [📖 Features](#-features) • [🚀 Installation](#-installation)
 
@@ -147,49 +147,25 @@
 - **Rate Limit**: 50 calls/minute (free tier)
 - **Documentation**: [CoinGecko API](https://www.coingecko.com/en/api)
 
-### **Key Endpoints**
-```javascript
-// Market data for cryptocurrencies
-GET /coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100
-
-// Detailed coin information
-GET /coins/{id}
-
-// Historical price data
-GET /coins/{id}/market_chart?vs_currency=usd&days=7
-```
-
 ---
 
 ## 👨‍💻 Author
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love">
-
-**Romil Raj**
-
-*Full Stack Developer*
+Romil Raj
 
 [![Github_Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajromil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajromilk23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romilraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romil-raj-80983728a/)
 
-*"Building modern web applications with cutting-edge technologies and beautiful user experiences."*
 
 </div>
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
-**Made with ❤️ by [Romil Raj](https://github.com/rajromil)**
+**(https://github.com/rajromil)**
 
 *CoinWatch - Track. Analyze. Profit.*
 

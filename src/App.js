@@ -170,7 +170,7 @@ function App() {
                   color: 'text.secondary',
                 }}
               >
-                Built with ❤️ by{' '}
+                Built by{' '}
                 <Typography
                   component="span"
                   sx={{
