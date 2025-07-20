@@ -1,4 +1,4 @@
-# � CoinWatch - Advanced Cryptocurrency Analytics Platform
+# 🪙 CoinWatch - Cryptocurrency Analytics Platform
 
 <div align="center">
 
@@ -147,18 +147,6 @@
 - **Rate Limit**: 50 calls/minute (free tier)
 - **Documentation**: [CoinGecko API](https://www.coingecko.com/en/api)
 
-### **Key Endpoints**
-```javascript
-// Market data for cryptocurrencies
-GET /coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100
-
-// Detailed coin information
-GET /coins/{id}
-
-// Historical price data
-GET /coins/{id}/market_chart?vs_currency=usd&days=7
-```
-
 ---
 
 ## 👨‍💻 Author
@@ -170,7 +158,6 @@ Romil Raj
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajromilk23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romil-raj-80983728a/)
 
-*"Building modern web applications with cutting-edge technologies and beautiful user experiences."*
 
 </div>
 
